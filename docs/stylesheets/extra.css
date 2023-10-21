@@ -1,5 +1,5 @@
 .md-header {
-    background-color: #12a337;
+    background-color: #017224;
 }
 
 .alert-word {
@@ -15,4 +15,9 @@
 [data-md-color-scheme="default"] {
   --md-primary-fg-color:       #0cb336;
   --md-default-fg-color--light: #007a1f;
+}
+
+.center {
+    margin: auto;
+    display: block;
 }
