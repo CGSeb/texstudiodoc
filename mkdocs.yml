@@ -1,8 +1,8 @@
-site_name: DM Customizer documentation
+site_name: TexStudio documentation
 theme:
   name: material
-  favicon: images/DMCLogoTransparent.png
-  logo: images/DMCLogoTransparent.png
+  favicon: images/favicon.ico
+  logo: images/Tx.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -19,9 +19,10 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
+  - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - admonition
   - pymdownx.details
   - pymdownx.superfences
