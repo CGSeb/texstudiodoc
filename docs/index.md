@@ -5,7 +5,7 @@
 This Blender addon is made to provide you the bests studios and light setups to texture and showcase your objects.
 
 <figure markdown>
-  ![TexStudio](images/MainPresentation.png){ width="800" } 
+  ![TexStudio](images/MainPresentation.jpg){ width="800" } 
   <figcaption>TexStudio</figcaption>
 </figure>
 
