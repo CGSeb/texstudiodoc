@@ -21,3 +21,28 @@
     margin: auto;
     display: block;
 }
+
+.asset_image{
+    display: inline-block;
+    width: 32.5%;
+}
+
+.back-button {
+    border-radius: 10px;
+    padding: 10px;
+    color: #FFFFFF !important;
+    font-weight: bold;
+    text-align: center;
+    background: #ec6628;
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.back-button:hover {
+    background: #e8a485;
+}
+
+.lite-asset {
+    border: solid 4px #1F9DD3;
+}
