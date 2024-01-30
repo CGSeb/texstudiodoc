@@ -1,8 +1,8 @@
 # 1. Welcome to TexStudio Documentation
 
-**Current version : 1.0.0**
+**Current version : 2.0.0**
 
-This Blender addon is made to provide you the bests studios and light setups to texture and showcase your objects.
+This Blender addon is made to provide you the best studios and light setups to texture and showcase your objects.
 
 <figure markdown>
   ![TexStudio](images/MainPresentation.jpg){ width="800" } 
@@ -13,9 +13,6 @@ This Blender addon is made to provide you the bests studios and light setups to 
 With this addon you will be able to import a studio and a light setup to texture your object directly inside you current blender project.
 
 No need to texture you objects in separate files. Select the object, select the studio and light setup and click on the import button and you are ready to texture.
-
-!!! info Synchronization
-    The textures are automatically synchronized with the main scene
 
 !!! warning
     The addon works with Blender version **4.0 and greater** only
