@@ -2,7 +2,7 @@ site_name: TexStudio documentation
 theme:
   name: material
   favicon: images/favicon.ico
-  logo: images/Tx.png
+  logo: images/Ts.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
